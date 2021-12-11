@@ -1,0 +1,2 @@
+# STEM
+STEM education is the intentional integration of science, technology, engineering, and mathematics, and their associated practices to create a student-centered learning environment in which students investigate and engineer solutions to problems, and construct evidence-based explanations of real-world phenomena with a focus on a student’s social, emotional, physical, and academic needs through shared contributions of schools, families, and community partners
